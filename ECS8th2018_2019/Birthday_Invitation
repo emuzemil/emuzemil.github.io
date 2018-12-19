@@ -1,1 +1,23 @@
-
+<!doctype html>
+<title>Birthday Invitation</title>
+<h1>You are invited to a birthday party</h1>
+<link rel="stylesheet" href="/css/profile9.css">
+<h2>Details</h2>
+<strong>For:</strong> Elias <br>
+<strong>Date:</strong> 22<sup>nd</sup> December <br>
+<strong>Time:</strong> 1 pm <br>
+<strong>Place:</strong> 6451 North Mozart Street 60645
+<h2>What to bring</h2>
+<p>We don't have any consoles at home, so I'd think it's be fun if you brought your own console and video games to share!
+<p>Bring your childhood photos to share your memories!
+<h2>My Wishlist</h2>
+<p>You absolutely do not have to buy me a present, but if you really want to buy me something then here is my wishlist:
+<ul>
+  <li><a target="_blank" href="https://www.amazon.com/Nintendo-Switch-Super-Smash-Bros-Ultimate/dp/B07HCTJC91/ref=pd_lpo_sbs_63_t_2?_encoding=UTF8&psc=1&refRID=JJMYK217P35WAZMM5AW1">Nintendo Switch</a>
+  <li><a target="_blank" href="https://www.amazon.com/Nintendo-3DS-Aqua-Blue/dp/B002I090AG/ref=pd_lpo_sbs_63_t_2?_encoding=UTF8&psc=1&refRID=WMCYQMKSYZVKWC2V7M8E">Nintendo 3DS</a>
+  <li><a target="_blank" href="https://www.amazon.com/LG-TP450-Android-Titanium-T-Mobile/dp/B078TTYHTG">LG Stylo 3</a>
+  <li><a target="_blank" href="https://www.amazon.com/Prismacolor-3598T-Premier-Colored-Pencils/dp/B00006IEEV">Prismacolor Premier Colored Pencils</a>
+  <li><a target="_blank" href="https://www.amazon.com/Google-play-Prepaid-Card-25/dp/B00R3R3DH0">Google Play Gift Card</a>
+</ul>
+<hr>
+<p> Hope to see you there!
