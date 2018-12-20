@@ -2,6 +2,7 @@
 <title>Birthday Invitation</title>
 <h1>You are invited to a birthday party</h1>
 <link rel="stylesheet" href="/css/profile9.css">
+<section>
 <h2>Details</h2>
 <strong>For:</strong> Elias <br>
 <strong>Date:</strong> 22<sup>nd</sup> December <br>
@@ -21,3 +22,5 @@
 </ul>
 <hr>
 <p> Hope to see you there!
+</section>
+<p><img src="/images/party2.png" width="200" title="Birthday cake" alt="Birthday cake">
