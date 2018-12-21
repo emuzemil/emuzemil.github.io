@@ -1,1 +1,38 @@
-
+<!doctype html>
+<title>Player Profile</title>
+<section>
+<h1>Player Profile</h1>
+<img src="/products/MTCS8790CD.jpeg" width="282" title="Chance the Rapper" alt="Acid Rap, Chance's 2nd album">
+<link rel="stylesheet" href="/css/profile3.css"><br>
+<strong>Name</strong>: Chancelor Jonathan "Chance the Rapper" Bennett<br>
+<strong>Birthday</strong>: 16<sup>th</sup> April 1993<br>
+<strong>Position</strong>: N/A<br>
+<strong>Height</strong>: 5'10"<br>
+<strong>Nationality</strong>: American<br>
+<strong>Salary</strong>: $33,000,000<br>
+<strong>Teams</strong>: <a href="file path">N/A</a>
+<h2>Stats</h2>
+<p>3 Grammy Awards wins in 2017- Best New Artist, Best Rap Performance in "No Problem" (with Lil Wayne and 2 Chainz), Best Rap Album is Coloring Book)
+<p>Nominated for the 2016 MTV Video Music Awards Japan
+<p>3 mixtapes
+<h2>Highlights</h2>
+<iframe width="282" src="https://www.youtube.com/embed/09R8_2nJtjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>Top 5 Achievements</h2>
+<ol>
+  <li>One collaborative album with Donnie Trumpet as The Social Experiment
+  <li>Engaged
+  <li>Has one daughter
+  <li>Won 3 Grammy Awards in 2017
+  <li>Used to take drugs, but quit
+</ol>
+<h2>Interesting Facts</h2>
+<ul>
+  <li>Engaged
+  <li>Has one daughter
+  <li>Dropped out of community college after one week
+  <li>Used to take drugs, but quit
+</ul>
+<hr>
+<p> For more information, view <a href="https://en.wikipedia.org/wiki/Chance_the_Rapper">Chance's Wikipedia page</a>.
+</section>
+<footer>Created by Elias, 2018</footer>
