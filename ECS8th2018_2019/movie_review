@@ -1,1 +1,14 @@
-
+<!doctype html>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+</style>
+<title>Spider-Man: Into the Spider-Verse</title>
+<link rel="stylesheet" href="movie.css">
+<h1>Spider-Man: Into the Spider-Verse</h1>
+<img src="/images/I/414t9nog%2BKL.jpg" width="280" title="My favorite recetnly-watched movie" alt="Into the Spider-Verse">
+<p><strong>Genre:</strong> Animation, superhero
+<br><strong>Release Date:</strong> December 14<sup>th</sup>, 2018
+<br><strong>Director/s:</strong> Bob Persichetti, Peter Ramsey, and Rodney Rothman
+<br><strong>Company:</strong> <a href="http://www.sonypicturesanimation.com/">Sony Pictures Animation</a>
+<h2>Movie Summary</h2>
+<p>Brooklyn adolescent boy Miles Morales gets a radioactive spider bite that gives him superpowers. He then realizes that he isn't the only true Spider-Man, with others having his powers including Peter Parker.
